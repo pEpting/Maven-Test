@@ -1,4 +1,4 @@
-package de.hfu;
+package eptingpa;
 
 public class Util {
 
