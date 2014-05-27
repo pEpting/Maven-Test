@@ -2,7 +2,7 @@ package meldeauskunft.repository;
 
 import java.util.List;
 
-import domain.Resident;
+import meldeauskunft.domain.Resident;
 
 /**
  * @author Stefan Betermieux
