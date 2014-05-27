@@ -1,8 +1,8 @@
-package de.hs_furtwangen.informatik.meldeauskunft.repository;
+package meldeauskunft.repository;
 
 import java.util.List;
 
-import de.hs_furtwangen.informatik.meldeauskunft.domain.Resident;
+import domain.Resident;
 
 /**
  * @author Stefan Betermieux
